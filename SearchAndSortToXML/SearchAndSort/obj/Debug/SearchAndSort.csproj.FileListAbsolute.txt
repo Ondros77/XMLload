@@ -1,0 +1,10 @@
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.exe.config
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.exe
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\bin\Debug\SearchAndSort.pdb
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csprojAssemblyReference.cache
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.Form1.resources
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.Properties.Resources.resources
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csproj.GenerateResource.cache
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.csproj.CoreCompileInputs.cache
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.exe
+C:\Users\mujno\source\repos\SearchAndSort\SearchAndSort\obj\Debug\SearchAndSort.pdb

@@ -1,0 +1,13 @@
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\bin\Debug\SearchAndSort.exe.config
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\bin\Debug\SearchAndSort.exe
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\bin\Debug\SearchAndSort.pdb
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSortToXML.csprojAssemblyReference.cache
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSortToXML.Form1.resources
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSort.Properties.Resources.resources
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSortToXML.csproj.GenerateResource.cache
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSortToXML.csproj.CoreCompileInputs.cache
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSort.exe
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSort.pdb
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mujno\source\repos\SearchAndSortToXML\SearchAndSort\obj\Debug\SearchAndSortToXML.csproj.CopyComplete

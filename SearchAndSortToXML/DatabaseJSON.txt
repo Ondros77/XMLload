@@ -1,0 +1,10 @@
+{"Id":1,"Name":"Jones Jonathan","DiscountCode":"A"}
+{"Id":34,"Name":"Cormier Daniel","DiscountCode":"B"}
+{"Id":28,"Name":"Stephens Jeremy","DiscountCode":"A"}
+{"Id":4,"Name":"Sandhagen Corry","DiscountCode":"D"}
+{"Id":97,"Name":"Bisping Michael","DiscountCode":"C"}
+{"Id":71,"Name":"Nunez Amanda","DiscountCode":"C"}
+{"Id":18,"Name":"Tate Miesha","DiscountCode":"D"}
+{"Id":33,"Name":"Adesanya Israel","DiscountCode":"D"}
+{"Id":81,"Name":"Fitch John","DiscountCode":"B"}
+{"Id":9,"Name":"Holm Holly","DiscountCode":"A"}
